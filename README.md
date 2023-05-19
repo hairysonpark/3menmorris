@@ -7,6 +7,6 @@ We built an AI that utilizes the minimax with alpha beta pruning so that the use
   - Once all six game pieces have been placed, the player and AI take turns moving their own game pieces to try and reach the goal state of the board. 
 - There are functions like “check_win”, “evaluate”, and “minimax”. 
 - The “check_win” ensures that the program continually checks the current game state and compares it to the goal state. 
- - This ensures that the player and AI don’t keep continuing the game when the goal state is reached. 
+  - This ensures that the player and AI don’t keep continuing the game when the goal state is reached. 
 - Function “minimax” is our implementation of the minimax algorithm with alpha beta pruning. 
 - Function “evaluate” contains code to see the board state and call the “check_win” function during after the player makes a move or if the AI makes a move. 
