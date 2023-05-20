@@ -1,5 +1,5 @@
-# 3menmorris
-CPSC 481-05 Group Project
+# 3 Men Morris
+CPSC 481-05 Group Project By: Kevin Nguyen, Harrison Park, Christian Verry
 Our project is developed in Python and it takes inspiration from the code used to create the classic game Tic Tac Toe. 3 Men's Morris is a spin off of Tic Tac Toe and is an ancient game.
 We built an AI that utilizes the minimax with alpha beta pruning so that the user can play against a competitive opponnent.
 - It begins with our code printing out the “board” of the game and initializes a blank “board”. 
